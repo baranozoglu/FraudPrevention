@@ -1,0 +1,4 @@
+set 123 '{"amount":100.05,"metadata":{"originatorId":1,"destinationId":2}}'
+set 124 '{"amount":150.75,"metadata":{"originatorId":10,"destinationId":20}}'
+set 125 '{"amount":1010.00,"metadata":{"originatorId":20,"destinationId":30}}'
+set 126 '{"amount":15.5,"metadata":{"originatorId":30,"destinationId":40}}'
